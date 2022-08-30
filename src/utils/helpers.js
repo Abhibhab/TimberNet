@@ -2,7 +2,7 @@ export const formatPrice = (number) => {
   return new Intl.NumberFormat('en-US', {
     style: 'currency',
     currency: 'INR',
-  }).format(number*70 / 100)
+  }).format(number*7 / 100)
 }
 
 export const getUniqueValues = (data, type) => {

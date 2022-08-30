@@ -9,12 +9,14 @@ const Hero = () => {
     <Wrapper className='section-center'>
       <article className='content'>
         <h1>
-          design your <br />
-          comfort zone
+          Where luxury meets afforability! <br />
+          
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti iure
-          quasi odit tenetur unde officiis repudiandae quod deserunt quia eum?
+         Explore the world full of a huge variety of comfortable,afforable,and refurbished furniture 
+         from your local small business and get it delivered right at your doorsteps.
+
+         
         </p>
         <Link to='/products' className='btn hero-btn'>
           shop now
